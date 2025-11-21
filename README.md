@@ -2,6 +2,8 @@
 
 Connect users and display their debt profiles and liabilities.
 
+**Demo:** https://spinwheel-debt-profile-fa5bgns4h-rivanmota.vercel.app
+
 ![Spinwheel Debt Profile Dashboard](https://github.com/user-attachments/assets/a1f6962b-85f1-4d06-9a3a-eddf5722c0e9)
 
 ![Verify OTP](https://github.com/user-attachments/assets/799d304f-6d42-46cd-8a2f-f10729f5fa8e)
