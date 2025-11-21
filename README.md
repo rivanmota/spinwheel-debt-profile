@@ -2,6 +2,8 @@
 
 Connect users and display their debt profiles and liabilities.
 
+![Alt text](https://github.com/user-attachments/assets/a1f6962b-85f1-4d06-9a3a-eddf5722c0e9)
+
 ## Features
 
 - **User Connection**: Connect users via SMS or pre-verified phone numbers
